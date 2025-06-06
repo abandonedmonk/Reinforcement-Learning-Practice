@@ -1,7 +1,7 @@
 import gymnasium
 import PyFlyt.gym_envs  # noqa
 
-env = gymnasium.make("PyFlyt/QuadX-Hover-v4", render_mode="human")
+env = gymnasium.make("PyFlyt/QuadX-Hover-v", render_mode="human")
 obs = env.reset()
 
 termination = False
