@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.14",
+  "startedAt":  "2025-06-08T09:56:41.015310Z",
+  "program":  "d:\\Code\\RL\\Finance\\Yandex Stock Prediction\\yandex_rl.ipynb",
+  "codePath":  "Finance\\Yandex Stock Prediction\\yandex_rl.ipynb",
+  "git":  {
+    "remote":  "https://github.com/abandonedmonk/Reinforcement-Learning-Practice.git",
+    "commit":  "f50feba3b6e3f3571563314067d96db5272b7907"
+  },
+  "email":  "anshuman.221793101@vcet.edu.in",
+  "root":  "d:\\Code\\RL\\Finance\\Yandex Stock Prediction",
+  "host":  "anshumanJena",
+  "executable":  "c:\\Users\\anshu\\anaconda3\\envs\\rl\\python.exe",
+  "codePathLocal":  "yandex_rl.ipynb",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "112193433600",
+      "used":  "52267085824"
+    }
+  },
+  "memory":  {
+    "total":  "16831942656"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  16
+  }
+}
