@@ -1,0 +1,4 @@
+torch==2.7.1
+wandb==0.20.1
+numpy
+pandas
